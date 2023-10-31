@@ -17,4 +17,4 @@ print(text_to_type)
 
 pyautogui.write(text_to_type, interval=0)
 
-time.sleep(10)
+time.sleep(9999)
